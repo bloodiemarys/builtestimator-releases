@@ -1,0 +1,8 @@
+{
+  "latest": "1.8.1",
+  "released": "2026-01-07",
+  "downloadUrl": "https://builtestimator.com/download",
+  "notes": "UI polish.\nMarkups & Tax fixes.\nStability improvements.",
+  "windowsUrl": "https://github.com/bloodiemarys/builtestimator-releases/releases/download/v1.8.1/Built-Estimator-Setup-1.8.1.exe",
+  "macUrl": "https://github.com/bloodiemarys/builtestimator-releases/releases/download/v1.8.1/Built-Estimator-1.8.1.dmg"
+}
