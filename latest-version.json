@@ -1,0 +1,15 @@
+{
+  "latestVersion": "2.0.0",
+  "released": "2026-01-11",
+  "notes": [
+    "Guided Scope workflow for structured project setup",
+    "Smart Draft Generator improvements and review flow",
+    "Project Hub enhancements with cleaner project creation",
+    "Consistent dark mode theming and contrast fixes",
+    "Improved charts, insights, and visual clarity",
+    "UI polish across Estimate, Projects, and Insights",
+    "Performance and stability improvements across large estimates"
+  ],
+  "downloadUrlMac": "https://github.com/bloodiemarys/builtestimator-releases/releases/download/v2.0.0/Built.Estimator-2.0.0-universal.dmg",
+  "downloadUrlWindows": "https://github.com/bloodiemarys/builtestimator-releases/releases/download/v2.0.0/Built.Estimator.Setup.2.0.0.exe"
+}
