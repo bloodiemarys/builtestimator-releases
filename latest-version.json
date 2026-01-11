@@ -11,5 +11,6 @@
     "Performance and stability improvements across large estimates"
   ],
   "downloadUrlMac": "https://github.com/bloodiemarys/builtestimator-releases/releases/download/v2.0.0/Built.Estimator-2.0.0-universal.dmg",
-  "downloadUrlWindows": "https://github.com/bloodiemarys/builtestimator-releases/releases/download/v2.0.0/Built.Estimator.Setup.2.0.0.exe"
+  "downloadUrlWindows": "https://github.com/bloodiemarys/builtestimator-releases/releases/download/v2.0.0/Built.Estimator.Setup.2.0.0.exe",
+  "releasePageUrl": "https://github.com/bloodiemarys/builtestimator-releases/releases/latest"
 }
